@@ -1,30 +1,30 @@
 # **Frontend Projects of [Mimo](https://mimo.org) App/Web**
  
-### *1 [Linktree](https://devefe.github.io/Test/Linktree/)*
+### *1 [Linktree](https://devefe.github.io/Mimo-Frontend-Projects/Linktree/)*
  
-### *2 [Unit Converter](https://devefe.github.io/Test/Unit%20Converter/)*
+### *2 [Unit Converter](https://devefe.github.io/Mimo-Frontend-Projects/Unit%20Converter/)*
  
-### *3 [Coffee Shop Menu](https://devefe.github.io/Test/Coffee%20Shop%20Menu/)*
+### *3 [Coffee Shop Menu](https://devefe.github.io/Mimo-Frontend-Projects/Coffee%20Shop%20Menu/)*
  
-### *4 [Guessing Game](https://devefe.github.io/Test/Guessing%20Game/)*
+### *4 [Guessing Game](https://devefe.github.io/Mimo-Frontend-Projects/Guessing%20Game/)*
  
-### *5 [Gallery](https://devefe.github.io/Test/Gallery/)*
+### *5 [Gallery](https://devefe.github.io/Mimo-Frontend-Projects/Gallery/)*
  
-### *6 [Digital Business Card](https://devefe.github.io/Test/Digital%20Business%20Card/)*
+### *6 [Digital Business Card](https://devefe.github.io/Mimo-Frontend-Projects/Digital%20Business%20Card/)*
  
-### *7 [Trivia Game](https://devefe.github.io/Test/Trivia%20Game/)*
+### *7 [Trivia Game](https://devefe.github.io/Mimo-Frontend-Projects/Trivia%20Game/)*
  
-### *8 [Rick and Morty](https://devefe.github.io/Test/Rick%20and%20Morty/)*
+### *8 [Rick and Morty](https://devefe.github.io/Mimo-Frontend-Projects/Rick%20and%20Morty/)*
  
-### *9 [Caesar Chipher](https://devefe.github.io/Test/Caesar%20Cipher)*
+### *9 [Caesar Chipher](https://devefe.github.io/Mimo-Frontend-Projects/Caesar%20Cipher)*
  
-### *10 [Typewriter Portfolio](https://devefe.github.io/Test/Typewriter%20Portfolio/)*
+### *10 [Typewriter Portfolio](https://devefe.github.io/Mimo-Frontend-Projects/Typewriter%20Portfolio/)*
  
-### *11 [Comedian Bot]()*
+### *11 [Comedian Bot](https://devefe.github.io/Mimo-Frontend-Projects/Comedian%20Bot/)*
  
-### *12 [Pixel Paws](https://devefe.github.io/Test/Pixel%20Paws/)*
+### *12 [Pixel Paws](https://devefe.github.io/Mimo-Frontend-Projects/Pixel%20Paws/)*
  
-### *13 [Pokedex](https://devefe.github.io/Test/Pokedex/)*
+### *13 [Pokedex](https://devefe.github.io/Mimo-Frontend-Projects/Pokedex/)*
  
 ### *14 [Food Delivery Service]()*
  
